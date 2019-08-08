@@ -18,3 +18,15 @@ fruit_set = {'Apple', 'Orange', 'Mango', 'Grape', 'Apple'}
 print(fruit_set)
 # Check if in set
 print('Apple' in fruit_set)
+# Add to set
+fruit_set.add('Banana')
+print(fruit_set)
+# Remove from set
+fruit_set.remove('Apple')
+print(fruit_set)
+# Clear set
+fruit_set.clear()
+print(fruit_set)
+# Delete tuple set
+del fruit_set
+print(fruit_set) # error because it was deleted
