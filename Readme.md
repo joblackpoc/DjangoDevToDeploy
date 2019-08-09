@@ -1,4 +1,4 @@
 # Django Dev To Deploy
 ## Learn Python from Brad Traversy
-My name is Ton
-Just To show git
+My name is POC chumphon
+
